@@ -1,6 +1,8 @@
 # 💫 About Me:
 Full Stack Android Developer 📱• Kotlin, Java, .Net, PLSQL • | Systems Analyst 💻 | always looking for new opportunities🚀
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ing-prado/) 
