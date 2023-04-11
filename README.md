@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Charles</h1>
+<h3 align="center">Passionate about Programming, Blockchain and IA. I have participated in more than 40 projects in these 8 years as a developer, many of them private but soon I will upload as many as I can to contribute to the community.</h3>
+
+
 # 💫 About Me:
 
 - 🔭 I’m currently working on **as a consultant**
